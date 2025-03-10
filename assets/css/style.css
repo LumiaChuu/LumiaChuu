@@ -70,3 +70,24 @@
   transform: translateY(-10px);
   box-shadow: 0 15px 40px rgba(255, 0, 255, 0.2);
 }
+
+/* Additional styling for pixel art and anime elements */
+.pixel-art img {
+  border: 2px solid #ff00ff;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+.pixel-art img:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 15px #00ffff;
+}
+
+/* Retro styling for tech icons */
+.tech-stack {
+  background: rgba(0, 0, 0, 0.2);
+  padding: 15px;
+  border-radius: 8px;
+  border: 2px solid #ff00ff;
+  margin: 20px 0;
+}

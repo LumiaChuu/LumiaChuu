@@ -1,32 +1,114 @@
 <div align="center">
-  <h1 class="glow-text">👋 Welcome to LumiaChuu's Magical Coding Universe! ✨</h1>
+  <h1 class="glow-text">👋 Welcome to LumiaChuu's Magical coding Universe ✨</h1>
 </div>
 
 <div align="center" class="pulse-element">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;UI/UX+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;JavaScript+%26+React+Expert;Computer+Science+Student;Anime+Enthusiast;Pixel+Art+Creator;Tech+Explorer&font=Press+Start+2P&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=16">
 </div>
 
 <div align="center" class="float-element">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" />
+  <img src="https://i.imgur.com/aNHAUiG.gif" width="600" height="300" />
 </div>
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="Anime Coding" width="400" src="https://i.imgur.com/OVVj8PJ.gif">
 
-- 🔭 I'm currently working on **innovative web applications**
-- 🌱 I'm learning **Advanced React, TypeScript, and Cloud Architecture**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **React, JavaScript, UI/UX Design**
+- 🎓 I'm a **Computer Science student** at **Institut Teknologi Tangerang Selatan**
+- 💻 I'm a **Fullstack Developer** specializing in **JavaScript, React, and Node.js**
+- 🔭 I'm currently working on **web applications and anime-inspired game projects**
+- 🌱 I'm learning **Advanced React Patterns, Next.js, and GraphQL**
+- 👯 I'm looking to collaborate on **JavaScript/React open source projects**
+- 💬 Ask me about **JavaScript, React, Node.js, Web Development, and Anime**
 - 📫 How to reach me: **[dimasexe07@gmail.com](mailto:dimasexe07@gmail.com)**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
+- ⚡ Fun fact: **I collect retro game consoles and create pixel art in my free time!**
 
 ## 🚀 Tech Stack
 
+### 💻 Frontend
 <div align="center" class="tech-stack">
   <div class="tech-icons">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,express,mongodb,postgres,tailwind,sass,figma,docker,aws,firebase&perline=5" class="tech-icon" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind,sass,webpack&perline=5" class="tech-icon" />
   </div>
+</div>
+
+### 🔧 Backend & Database
+<div align="center" class="tech-stack">
+  <div class="tech-icons">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,graphql,prisma&perline=4" class="tech-icon" />
+  </div>
+</div>
+
+### 🛠️ Tools & Others
+<div align="center" class="tech-stack">
+  <div class="tech-icons">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,jest,docker,vercel,netlify&perline=4" class="tech-icon" />
+  </div>
+</div>
+
+<div align="center" class="pixel-art">
+  <img src="https://i.imgur.com/RSoMJLM.gif" width="150" />
+  <img src="https://i.imgur.com/YYjkxVZ.gif" width="150" />
+  <img src="https://i.imgur.com/CKGU9Rh.gif" width="150" />
+</div>
+
+## 💻 Code Showcase
+
+<div class="code-snippet react-code">
+
+```jsx
+// React Component Sample
+const AnimeCard = ({ anime }) => {
+  const [expanded, setExpanded] = useState(false);
+  
+  return (
+    <div className="anime-card" onClick={() => setExpanded(!expanded)}>
+      <img src={anime.coverImage} alt={anime.title} className="anime-cover" />
+      <h3 className="anime-title">{anime.title}</h3>
+      
+      {expanded && (
+        <div className="anime-details">
+          <p>{anime.description}</p>
+          <button onClick={(e) => {
+            e.stopPropagation();
+            window.open(anime.url, '_blank');
+          }}>
+            View Details
+          </button>
+        </div>
+      )}
+    </div>
+  );
+};
+```
+
+</div>
+
+<div class="code-snippet js-code">
+
+```javascript
+// Custom React Hook for Data Fetching
+const useAnimeData = (query) => {
+  const [data, setData] = useState([]);
+  const [loading, setLoading] = useState(true);
+  
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response = await fetch(`https://api.example.com/anime?q=${query}`);
+        const result = await response.json();
+        setData(result.data);
+      } finally {
+        setLoading(false);
+      }
+    };
+    fetchData();
+  }, [query]);
+
+  return { data, loading };
+};
+```
+
 </div>
 
 ## 📊 GitHub Stats
@@ -55,11 +137,19 @@
 ## 📌 Pinned Repositories
 
 <div align="center">
-  <a href="https://github.com/LumiaChuu/project-1" class="custom-card">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LumiaChuu&repo=project-1&theme=radical" />
+  <a href="https://github.com/LumiaChuu/react-anime-dashboard" class="custom-card">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LumiaChuu&repo=react-anime-dashboard&theme=synthwave" />
   </a>
-  <a href="https://github.com/LumiaChuu/project-2" class="custom-card">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LumiaChuu&repo=project-2&theme=radical" />
+  <a href="https://github.com/LumiaChuu/fullstack-portfolio" class="custom-card">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LumiaChuu&repo=fullstack-portfolio&theme=synthwave" />
+  </a>
+</div>
+<div align="center" style="margin-top: 10px;">
+  <a href="https://github.com/LumiaChuu/anime-pixel-adventure" class="custom-card">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LumiaChuu&repo=anime-pixel-adventure&theme=synthwave" />
+  </a>
+  <a href="https://github.com/LumiaChuu/mern-social-app" class="custom-card">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LumiaChuu&repo=mern-social-app&theme=synthwave" />
   </a>
 </div>
 
@@ -90,7 +180,63 @@
 <!-- CSS Styles for animations -->
 <style>
   @import url('https://lumiachuu.github.io/assets/css/style.css');
+  
+  /* Additional retro pixel styling */
+  .pixel-art {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px 0;
+    background: rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    border-radius: 8px;
+    border: 2px solid #ff00ff;
+    box-shadow: 0 0 10px #00ffff;
+  }
+  
+  h1, h2 {
+    font-family: 'Press Start 2P', cursive;
+  }
+  
+  /* Anime-inspired elements */
+  body {
+    background-image: url('https://i.imgur.com/8TuRuJV.png');
+    background-size: 100px;
+  }
+  
+  /* Code snippet styling */
+  .code-snippet {
+    background: rgba(40, 44, 52, 0.8);
+    border-radius: 6px;
+    padding: 15px;
+    margin: 20px 0;
+    font-family: 'Fira Code', monospace;
+    border-left: 4px solid #61dafb;
+    color: #f8f8f2;
+    overflow-x: auto;
+  }
+  
+  .react-code {
+    border-left-color: #61dafb;
+  }
+  
+  .js-code {
+    border-left-color: #f7df1e;
+  }
+  
+  /* Tech stack styling */
+  .tech-stack {
+    background: rgba(0, 0, 0, 0.2);
+    padding: 15px;
+    border-radius: 8px;
+    border: 2px solid #ff00ff;
+    margin: 10px 0;
+    box-shadow: 0 0 10px rgba(97, 218, 251, 0.5);
+  }
 </style>
+
+<!-- Google Fonts for Pixel Typography and Code -->
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
 
 <!-- Add this to your GitHub profile repository to enable the snake animation:
 Create a .github/workflows/snake.yml file with the appropriate GitHub Action configuration -->
