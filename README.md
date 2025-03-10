@@ -7,12 +7,12 @@
 </div>
 
 <div align="center" class="float-element">
-  <img src="https://i.imgur.com/aNHAUiG.gif" width="600" height="300" />
+  <img src="https://raw.githubusercontent.com/LumiaChuu/LumiaChuu/main/assets/images/coding-animation.gif" width="600" height="300" alt="Anime coding animation" />
 </div>
 
 ## 💫 About Me
 
-<img align="right" alt="Anime Coding" width="400" src="https://i.imgur.com/OVVj8PJ.gif">
+<img align="right" alt="Anime Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 🎓 I'm a **Computer Science student** at **Institut Teknologi Tangerang Selatan**
 - 💻 I'm a **Fullstack Developer** specializing in **JavaScript, React, and Node.js**
@@ -47,9 +47,9 @@
 </div>
 
 <div align="center" class="pixel-art">
-  <img src="https://i.imgur.com/RSoMJLM.gif" width="150" />
-  <img src="https://i.imgur.com/YYjkxVZ.gif" width="150" />
-  <img src="https://i.imgur.com/CKGU9Rh.gif" width="150" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM0ZDM0MzQzNDM0MzQzNDM0MzQzNDM0MzQzNDM0MzQzNDM0MzQzNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="150" alt="Pixel Art 1" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQzNDM0MzQzNDM0MzQzNDM0MzQzNDM0MzQzNDM0MzQzNDM0MzQzNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPeQ5Ef1JSYgiAw/giphy.gif" width="150" alt="Pixel Art 2" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQzNDM0MzQzNDM0MzQzNDM0MzQzNDM0MzQzNDM0MzQzNDM0MzQzNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l4KibK3JwaVo0CjDO/giphy.gif" width="150" alt="Pixel Art 3" />
 </div>
 
 ## 💻 Code Showcase
@@ -165,7 +165,7 @@ const useAnimeData = (query) => {
   <a href="https://www.instagram.com/haegel_/" target="_blank" class="social-icon">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="discordapp.com/users/1218576961924759593" target="_blank" class="social-icon">
+  <a href="https://discordapp.com/users/1218576961924759593" target="_blank" class="social-icon">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
@@ -200,8 +200,10 @@ const useAnimeData = (query) => {
   
   /* Anime-inspired elements */
   body {
-    background-image: url('https://i.imgur.com/8TuRuJV.png');
+    background-image: url('https://raw.githubusercontent.com/LumiaChuu/LumiaChuu/main/assets/images/background-pattern.png');
     background-size: 100px;
+    background-color: #121212;
+    color: #f8f8f2;
   }
   
   /* Code snippet styling */
@@ -237,6 +239,33 @@ const useAnimeData = (query) => {
 
 <!-- Google Fonts for Pixel Typography and Code -->
 <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+
+<!-- Interactive Elements -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Add sparkle effect to headings
+    const headings = document.querySelectorAll('h1, h2');
+    headings.forEach(heading => {
+      heading.addEventListener('mouseover', function() {
+        this.style.textShadow = '0 0 15px #ff00ff, 0 0 25px #ff00ff';
+      });
+      heading.addEventListener('mouseout', function() {
+        this.style.textShadow = '';
+      });
+    });
+    
+    // Add click effect to tech icons
+    const techIcons = document.querySelectorAll('.tech-icon');
+    techIcons.forEach(icon => {
+      icon.addEventListener('click', function() {
+        this.classList.add('clicked');
+        setTimeout(() => {
+          this.classList.remove('clicked');
+        }, 500);
+      });
+    });
+  });
+</script>
 
 <!-- Add this to your GitHub profile repository to enable the snake animation:
 Create a .github/workflows/snake.yml file with the appropriate GitHub Action configuration -->
