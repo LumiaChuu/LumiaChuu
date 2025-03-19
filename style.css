@@ -1,0 +1,213 @@
+/* Pacman Animation */
+@keyframes pacman-move {
+  0% { transform: translateX(-100px); }
+  100% { transform: translateX(calc(100% + 100px)); }
+}
+
+@keyframes pacman-chomp {
+  0% { clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%); }
+  50% { clip-path: polygon(0 0, 100% 50%, 100% 100%, 0 100%); }
+  100% { clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%); }
+}
+
+@keyframes ghost-float {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0); }
+}
+
+@keyframes neon-glow {
+  0% { text-shadow: 0 0 5px #FF00FF, 0 0 10px #FF00FF, 0 0 15px #FF00FF; }
+  50% { text-shadow: 0 0 10px #FF00FF, 0 0 20px #FF00FF, 0 0 30px #FF00FF; }
+  100% { text-shadow: 0 0 5px #FF00FF, 0 0 10px #FF00FF, 0 0 15px #FF00FF; }
+}
+
+@keyframes neon-glow-cyan {
+  0% { text-shadow: 0 0 5px #00FFFF, 0 0 10px #00FFFF, 0 0 15px #00FFFF; }
+  50% { text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF; }
+  100% { text-shadow: 0 0 5px #00FFFF, 0 0 10px #00FFFF, 0 0 15px #00FFFF; }
+}
+
+/* Background Effect */
+.background-effect {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #000428 0%, #004e92 100%);
+  z-index: -1;
+  opacity: 0.8;
+}
+
+.stars {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background-image: radial-gradient(2px 2px at 20px 30px, #eee, rgba(0,0,0,0)),
+                    radial-gradient(2px 2px at 40px 70px, #fff, rgba(0,0,0,0)),
+                    radial-gradient(2px 2px at 50px 160px, #ddd, rgba(0,0,0,0)),
+                    radial-gradient(2px 2px at 90px 40px, #fff, rgba(0,0,0,0)),
+                    radial-gradient(2px 2px at 130px 80px, #fff, rgba(0,0,0,0)),
+                    radial-gradient(2px 2px at 160px 120px, #ddd, rgba(0,0,0,0));
+  background-repeat: repeat;
+  background-size: 200px 200px;
+}
+
+/* Pacman and Ghosts */
+.pacman {
+  width: 50px;
+  height: 50px;
+  background-color: #FFFF00;
+  border-radius: 50%;
+  position: relative;
+  animation: pacman-move 15s linear infinite, pacman-chomp 0.5s linear infinite;
+}
+
+.ghost {
+  width: 40px;
+  height: 50px;
+  background-color: #FF0000;
+  border-radius: 20px 20px 0 0;
+  position: relative;
+  margin-left: 20px;
+  animation: ghost-float 3s ease-in-out infinite;
+}
+
+.ghost::after {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  width: 40px;
+  height: 10px;
+  background-color: #FF0000;
+  border-radius: 0 0 10px 10px;
+}
+
+.ghost-blue {
+  background-color: #00FFFF;
+}
+
+.ghost-blue::after {
+  background-color: #00FFFF;
+}
+
+.ghost-pink {
+  background-color: #FF00FF;
+}
+
+.ghost-pink::after {
+  background-color: #FF00FF;
+}
+
+.ghost-orange {
+  background-color: #FFA500;
+}
+
+.ghost-orange::after {
+  background-color: #FFA500;
+}
+
+/* Game Container */
+.game-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  height: 80px;
+  margin: 20px 0;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  background-color: #FFFFFF;
+  border-radius: 50%;
+  margin: 0 20px;
+}
+
+/* Neon Text Effects */
+.neon-text-pink {
+  color: #FF00FF;
+  animation: neon-glow 2s ease-in-out infinite;
+}
+
+.neon-text-cyan {
+  color: #00FFFF;
+  animation: neon-glow-cyan 2s ease-in-out infinite;
+}
+
+/* Hover Effects */
+.project-card {
+  transition: all 0.3s ease;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(255, 0, 255, 0.3);
+  border-color: #FF00FF;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Badge Hover Effects */
+.badge-hover {
+  transition: all 0.3s ease;
+}
+
+.badge-hover:hover {
+  transform: scale(1.1);
+}
+
+/* Skill Icons Animation */
+.skill-icon {
+  transition: all 0.3s ease;
+}
+
+.skill-icon:hover {
+  transform: rotate(10deg) scale(1.2);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #000;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(#FF00FF, #00FFFF);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(#00FFFF, #FF00FF);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .game-container {
+    height: 60px;
+  }
+  
+  .pacman {
+    width: 30px;
+    height: 30px;
+  }
+  
+  .ghost {
+    width: 25px;
+    height: 30px;
+  }
+}
