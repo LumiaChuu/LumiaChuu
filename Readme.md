@@ -92,5 +92,5 @@ My coding style? Think of it as a well-animated fight scene: flashy, efficient, 
 
 <div align="center">
   <img src="https://media.giphy.com/media/DUzCmpUw0s6KA/giphy.gif?cid=ecf05e47kjwlsawwm8rpwkne66z6wa6s9usn72tlw6lqi1jx&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150" /> <p><small>Session Terminated... See You Space Cowboy... <br/> LumiaChuu // Signing Off With a Kamehameha! 🔥</small></p>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdjNmYzMGE2ZjM2ODZlOTY4MWQyZDIxYWI5ZWMyMTYxYzBkMDIzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7btL5h58L4nkvPjy/giphy.gif" width="100" alt="Pixel Art Anime Character Waving"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBlamwxZnVpc2g0cG10MTZsZ2FkNDI5OTNwand4eW9tZmh3dmVnayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EbRIxoUny8GJKkRZ8S/giphy.gif" width="100" alt="Pixel Art Anime Character Waving"/>
   </div>
