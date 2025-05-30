@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk2Z3UxMzVudmo5NjAyazd0OXpzOG1leDFlMXl2bHJscXFxenNkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tXzFpjeqVnE7m/giphy.gif" alt="80s Anime GIF" width="800"/>
+  <img src="https://media.giphy.com/media/4oJPtYqOQ2xoY/giphy.gif?cid=ecf05e47qoz2hqfwh1c576r9jabtl4aeetulv3eq676cc7a0&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="80s Anime GIF" width="800"/>
   <h1>
     <img src="https://media.giphy.com/media/uB2szZH5JSIU0/giphy.gif?cid=ecf05e47rvjqmpfx5echlgp1904kztjonq5r5hqg130mnrcc&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50" /> SYSTEM BOOT: <samp>LumiaChuu</samp> <font color="#FF69B4">参上 (Sanjou!)</font>
     <img src="https://media.giphy.com/media/uB2szZH5JSIU0/giphy.gif?cid=ecf05e47rvjqmpfx5echlgp1904kztjonq5r5hqg130mnrcc&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50" />
