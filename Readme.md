@@ -2,7 +2,7 @@
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk2Z3UxMzVudmo5NjAyazd0OXpzOG1leDFlMXl2bHJscXFxenNkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tXzFpjeqVnE7m/giphy.gif" alt="80s Anime GIF" width="800"/>
   <h1>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWY4MmZmMzMyZGM2NjcxZDAzY2U4YjIzMWQwZWRmMGM4ODE2MDI5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MOWPkhRAbR4ht7m61i/giphy.gif" width="50" /> SYSTEM BOOT: <samp>LumiaChuu</samp> <font color="#FF69B4">参上 (Sanjou!)</font>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk2Z3UxMzVudmo5NjAyazd0OXpzOG1leDFlMXl2bHJscXFxenNkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0K4fw32ZXp6pRlAc/giphy.gif" width="50" /> SYSTEM BOOT: <samp>LumiaChuu</samp> <font color="#FF69B4">参上 (Sanjou!)</font>
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWY4MmZmMzMyZGM2NjcxZDAzY2U4YjIzMWQwZWRmMGM4ODE2MDI5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MOWPkhRAbR4ht7m61i/giphy.gif" width="50" />
   </h1>
   <p><strong>Dimas Ramadhan A.K.A LumiaChuu</strong> // Fullstack Alchemist & <font color="#7DF9FF">AI-Powered Mech Pilot</font></p>
