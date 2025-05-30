@@ -1,95 +1,96 @@
 <div align="center">
 
-  <img src="https://i.imgur.com/your_custom_anime_cyberpunk_banner.gif" alt="Cyberpunk Cityscape with Retro Anime Twist" width="800"/>
+  <img src="https://media.giphy.com/media/3oKGZpoy83GP4w12V2/giphy.gif" alt="Dynamic Anime Cyberpunk Banner" width="800"/>
   <h1>
-    <img src="https://media.tenor.com/images/5155e5914f5e89179418928941dee95c/tenor.gif" width="40" />
-    Loading Main Character: <samp>LumiaChuu</samp> <font color="#ff00ff">~nyaa!</font>
-    <img src="https://media.tenor.com/images/5155e5914f5e89179418928941dee95c/tenor.gif" width="40" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWY4MmZmMzMyZGM2NjcxZDAzY2U4YjIzMWQwZWRmMGM4ODE2MDI5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MOWPkhRAbR4ht7m61i/giphy.gif" width="50" /> SYSTEM BOOT: <samp>LumiaChuu</samp> <font color="#FF69B4">参上 (Sanjou!)</font>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWY4MmZmMzMyZGM2NjcxZDAzY2U4YjIzMWQwZWRmMGM4ODE2MDI5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MOWPkhRAbR4ht7m61i/giphy.gif" width="50" />
   </h1>
-  <p><strong>Dimas Ramadhan A.K.A LumiaChuu</strong> // Fullstack Developer & <font color="#00ffff">AI Sensei</font></p>
-  <p><em>"Hacking the mainframe with waifu power and the speed of a shinkansen."</em></p>
+  <p><strong>Dimas Ramadhan A.K.A LumiaChuu</strong> // Fullstack Alchemist & <font color="#7DF9FF">AI-Powered Mech Pilot</font></p>
+  <p><em>"My code speaks louder than words... but my keyboard is even louder during late-night coding crunches!"</em> <strong>(๑˃ᴗ˂)ﻭ</strong></p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=480&lines=SYSTEM.INITIALIZING...|ANIME_MODE=ON|CYBERPUNK_AESTHETIC=MAX" alt="System Initializing Anime Mode Glitch Text"/>
-
-</div>
-
----
-
-## <img src="https://media.tenor.com/images/75a540c41ba27ff6dd4e93c13118976f/tenor.gif" width="30"/> Ohayou, Code Warriors! (ﾉ´ヮ´)ﾉ\*:･ﾟ✧
-
-Yare yare daze... it seems you've stumbled upon my digital dojo! I'm **Dimas Ramadhan**, but in this virtual realm, I'm known as **LumiaChuu**, your friendly neighborhood **Fullstack Developer** with a serious case of **AI obsession**. 🤖✨
-
-Think of my code as my jutsu, my algorithms as my magical spells, and debugging as my epic boss battles. I navigate the neon-lit streets of the internet, fueled by ramen, retro synthwave, and the undying spirit of my favorite anime heroes.
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Anime Loading Bar" width="400"/>
+  </div>
 
 ---
 
-## 🛠️ My Inventory (Skills & Technologies)
+## <img src="https://media.tenor.com/images/a20c160a82894889320939828515955c/tenor.gif" width="40"/> Konnichiwa, Senpai & Kouhai! 👋
+
+You've warped into the digital realm of **LumiaChuu** (that's me, Dimas Ramadhan!). I'm a **Fullstack Alchemist**, transmuting lines of code into digital gold, and an **AI-Powered Mech Pilot**, navigating the complex data streams of artificial intelligence. 🚀
+
+My coding style? Think of it as a well-animated fight scene: flashy, efficient, and always aiming for that critical hit (bug-free deployment!). When I'm not conjuring code, I'm probably re-watching a classic mecha anime, grinding in a JRPG, or theorizing about the next big AI breakthrough. It's not just a job, it's my isekai adventure!
+
+---
+
+## ⚔️ My Jutsu Scroll (Tech Stack & Abilities)
+
+<p align="center">
+  <em>"Believe in the me that believes in your project!" - Probably a famous anime character.</em>
+</p>
 
 <div align="center">
-
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-
-</div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=151515" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=151515" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=151515" alt="Python"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=151515" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=151515" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=151515" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=151515" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=151515" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=151515" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=151515" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=151515" alt="Git"/>
+  </div>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYSSfZgAAdOkL8Q/giphy.gif" width="100"/> </p>
 
 ---
 
-## 📡 Currently Transmitting... (What's Happening?)
+## 🗺️ Current Quest Log (My Ongoing Saga)
 
-* 🧠 **Leveling Up My AI Game:** Currently grinding through courses on [Sebutkan Topik AI Spesifik, misal: Reinforcement Learning atau Computer Vision].
-* 💻 **Building a New Mecha (Project):** Working on [Sebutkan Proyek Pribadi dengan Analog Anime/Cyberpunk, misal: a neural network that generates retro anime pixel art / a web framework with a cyberpunk UI].
-* 🎮 **Replaying My Favorite Saves:** Sometimes I take a break to revisit classic retro games for inspiration (and pure fun!).
-* ✨ **Searching for Hidden Easter Eggs (New Tech):** Always on the lookout for the latest and greatest in the tech world.
+* 🧠 **Training Arc:** Mastering the ancient scrolls of [Sebutkan Topik AI/Tech Spesifik, misal: Generative Adversarial Networks / Quantum Computing basics]. My power level is definitely over 9000 (soon)!
+* 🚀 **Building the Next Gundam (Project):** Crafting [Sebutkan Proyek dengan Analog Anime, misal: an AI that writes light novel summaries / a retro-style game with cyberpunk aesthetics and anime character designs]. *It's gonna be legen—wait for it—dary!*
+* 🎮 **Side Quests & Grinding:** Exploring new open-source libraries like a dungeon crawler and occasionally diving back into [Sebutkan Game Retro/Anime Favorit].
+* 🌟 **Seeking the Dragon Balls (New Tech):** Always on the hunt for emerging technologies and frameworks to add to my arsenal.
 
 ---
 
-## 🕹️ My Stats - High Score!
-
+## 📊 My Power Level Scouter (GitHub Stats)
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=LumiaChuu&show_icons=true&theme=tokyonight&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&count_private=true" alt="LumiaChuu's GitHub Stats" />
+  <img src="https://media.giphy.com/media/NqNrz1jT4nU4g/giphy.gif" width="150"/> <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LumiaChuu&show_icons=true&theme=radical&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&count_private=true&rank_icon=github" alt="LumiaChuu's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumiaChuu&layout=compact&theme=tokyonight&bg_color=151515&hide_border=true&text_color=9f9f9f" alt="LumiaChuu's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumiaChuu&layout=compact&theme=radical&bg_color=151515&hide_border=true&text_color=9f9f9f" alt="LumiaChuu's Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LumiaChuu&theme=tokyonight&background=151515&hide_border=true&stroke=79ff97&ring=79ff97&fire=79ff97&currStreakNum=9f9f9f&sideNums=9f9f9f&sideLabels=9f9f9f&dates=9f9f9f" alt="LumiaChuu's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LumiaChuu&theme=radical&background=151515&hide_border=true&stroke=79ff97&ring=79ff97&fire=79ff97&currStreakNum=9f9f9f&sideNums=9f9f9f&sideLabels=9f9f9f&dates=9f9f9f" alt="LumiaChuu's GitHub Streak" />
 
-  *(Pastikan untuk mengganti `LumiaChuu` dengan username GitHub kamu yang sebenarnya!)*
-
+  *(Ganti `LumiaChuu` dengan username GitHub kamu yang sebenarnya agar statistik ini berfungsi! Tema `radical` memberikan nuansa retro/cyberpunk).*
 </div>
 
 ---
 
-## 🔗 Connect - Let's Form a Party!
-
-Feel free to slide into my DMs (digitally speaking)! Let's collaborate on some epic projects or just geek out about our favorite anime and tech.
-
+## 💌 Join My Guild! (Let's Connect)
 <div align="center">
+  <p>Got a world-saving quest (or just a cool project idea)? Let's team up! <br/> You can also find me geeking out about the latest anime season or that OP new gacha character. <strong>(ゝω･)ﾉﾞ</strong></p>
 
-  <a href="https://linkedin.com/in/your_linkedin_profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/your_twitter_handle" target="_blank"><img src="https://img.shields.io/badge/X_ (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://myanimelist.net/profile/your_mal_username" target="_blank"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=mal&logoColor=white" alt="MyAnimeList"/></a> </div>
+  <a href="[LINK_LINKEDIN_KAMU]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="[https://x.com/LumiaChuu]" target="_blank"><img src="https://img.shields.io/badge/X_ (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
+  <a href="mailto:[LumiaChuu@hotmail.com]"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="[https://myanimelist.net/profile/LumiaChuu]" target="_blank"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MyAnimeList"/></a>
+  </div>
+
+---
+## ⭐ My Hall of Fame (Favorite Anime/Manga)
+<div align="center">
+  <p><em>Because one does not simply code without anime fuel...</em></p>
+  <img src="https://cdn.myanimelist.net/images/anime/11/39717.jpg" alt="Attack on Titan" width="150" title="Attack on Titan"/>
+  <img src="https://cdn.myanimelist.net/images/anime/1208/94745.jpg" alt="Demon Slayer" width="150" title="Demon Slayer: Kimetsu no Yaiba"/>
+  <img src="https://cdn.myanimelist.net/images/manga/3/258224.jpg" alt="Chainsaw Man" width="150" title="Chainsaw Man"/>
+  <img src="https://cdn.myanimelist.net/images/anime/1120/138730.jpg" alt="Jujutsu Kaisen" width="150" title="Jujutsu Kaisen"/>
+  </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/images/1ba5a490f1d25213d783881ff9a08469/tenor.gif" width="120" alt="Pixel Art Anime Loading"/>
-  <p><small>Logging out... Otsukare sama deshita! ✨ <br/> LumiaChuu // Mission Complete!</small></p>
-  <img src="https://i.imgur.com/your_custom_pixel_art_footer.gif" width="100" />
+  <img src="https://media.giphy.com/media/iPqkwLAbP022Y/giphy.gif" width="150" /> <p><small>Session Terminated... See You Space Cowboy... <br/> LumiaChuu // Signing Off With a Kamehameha! 🔥</small></p>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdjNmYzMGE2ZjM2ODZlOTY4MWQyZDIxYWI5ZWMyMTYxYzBkMDIzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7btL5h58L4nkvPjy/giphy.gif" width="100" alt="Pixel Art Anime Character Waving"/>
   </div>
