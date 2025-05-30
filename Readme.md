@@ -2,8 +2,8 @@
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk2Z3UxMzVudmo5NjAyazd0OXpzOG1leDFlMXl2bHJscXFxenNkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tXzFpjeqVnE7m/giphy.gif" alt="80s Anime GIF" width="800"/>
   <h1>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk2Z3UxMzVudmo5NjAyazd0OXpzOG1leDFlMXl2bHJscXFxenNkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0K4fw32ZXp6pRlAc/giphy.gif" width="50" /> SYSTEM BOOT: <samp>LumiaChuu</samp> <font color="#FF69B4">参上 (Sanjou!)</font>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk2Z3UxMzVudmo5NjAyazd0OXpzOG1leDFlMXl2bHJscXFxenNkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0K4fw32ZXp6pRlAc/giphy.gif" width="50" />
+    <img src="https://media.giphy.com/media/uB2szZH5JSIU0/giphy.gif?cid=ecf05e47rvjqmpfx5echlgp1904kztjonq5r5hqg130mnrcc&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50" /> SYSTEM BOOT: <samp>LumiaChuu</samp> <font color="#FF69B4">参上 (Sanjou!)</font>
+    <img src="https://media.giphy.com/media/uB2szZH5JSIU0/giphy.gif?cid=ecf05e47rvjqmpfx5echlgp1904kztjonq5r5hqg130mnrcc&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50" />
   </h1>
   <p><strong>Dimas Ramadhan A.K.A LumiaChuu</strong> // Fullstack Alchemist & <font color="#7DF9FF">AI-Powered Mech Pilot</font></p>
   <p><em>"My code speaks louder than words... but my keyboard is even louder during late-night coding crunches!"</em> <strong>(๑˃ᴗ˂)ﻭ</strong></p>
