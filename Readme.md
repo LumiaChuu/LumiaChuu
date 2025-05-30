@@ -56,7 +56,7 @@ My coding style? Think of it as a well-animated fight scene: flashy, efficient, 
 
 ## 📊 My Power Level Scouter (GitHub Stats)
 <div align="center">
-  <img src="https://media.giphy.com/media/NqNrz1jT4nU4g/giphy.gif" width="150"/> <br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnUxa3d6bzdydHVhbGJqbGFlMGFkM3Q1djBwdWd6M3QyMTFvbzNibyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GRSnxyhJnPsaQy9YLn/giphy.gif" width="150"/> <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=LumiaChuu&show_icons=true&theme=radical&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&count_private=true&rank_icon=github" alt="LumiaChuu's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumiaChuu&layout=compact&theme=radical&bg_color=151515&hide_border=true&text_color=9f9f9f" alt="LumiaChuu's Top Languages" />
