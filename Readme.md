@@ -47,7 +47,7 @@ My coding style? Think of it as a well-animated fight scene: flashy, efficient, 
 
 ## 🗺️ Current Quest Log (My Ongoing Saga)
 
-* 🧠 **Training Arc:** Mastering the ancient scrolls of [Sebutkan Topik AI/Tech Spesifik, misal: Generative AI / LLM]. My power level is definitely over 9000 (soon)!
+* 🧠 **Training Arc:** Mastering the ancient scrolls of [Generative AI / LLM]. My power level is definitely over 9000 (soon)!
 * 🚀 **Building the Next Gundam (Project):** Crafting [Lumi AI (IDOL CHATBOT✨) ]. *It's gonna be legen—wait for it—dary!*
 * 🎮 **Side Quests & Grinding:** Exploring new open-source libraries like a dungeon crawler and occasionally diving back into [The Legend of Heroes].
 * 🌟 **Seeking the Dragon Balls (New Tech):** Always on the hunt for emerging technologies and frameworks to add to my arsenal.
