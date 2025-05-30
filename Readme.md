@@ -8,7 +8,7 @@
   <p><strong>Dimas Ramadhan A.K.A LumiaChuu</strong> // Fullstack Alchemist & <font color="#7DF9FF">AI-Powered Mech Pilot</font></p>
   <p><em>"My code speaks louder than words... but my keyboard is even louder during late-night coding crunches!"</em> <strong>(๑˃ᴗ˂)ﻭ</strong></p>
 
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Anime Loading Bar" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTdiMWV1dHo1OGJ2NDVoMnM1NXgwbWJ1Mm5xZzF4aHhpZHB3bWNmZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kw9R3jD27JmMDULYr5/giphy.gif" alt="Anime Loading Bar" width="400"/>
   </div>
 
 ---
