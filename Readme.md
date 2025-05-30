@@ -41,7 +41,7 @@ My coding style? Think of it as a well-animated fight scene: flashy, efficient, 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=151515" alt="Git"/>
   </div>
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYSSfZgAAdOkL8Q/giphy.gif" width="100"/> </p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndraW9uN2Y3Y2RkZHc4NTVkYzI0cmZ1MmVsNXc5ZzJjY3B3YTgyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/m6Gkz5AVTo7o4/giphy.gif" width="100"/> </p>
 
 ---
 
